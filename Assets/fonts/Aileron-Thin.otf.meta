@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c38b4f43cb4fd974eaea82cd304234cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aileron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0ffbb18b79a2434aba33847d961ceac, type: 3}
+  - {fileID: 12800000, guid: 1291e87ee6ac3664ca4d4b0287b15f0a, type: 3}
+  - {fileID: 12800000, guid: e10a8bbb08637a54f8a89a54b3e9f209, type: 3}
+  - {fileID: 12800000, guid: b2d8cf616df5d8f40973ecd6f8257668, type: 3}
+  - {fileID: 12800000, guid: e0188ee9bc7f5fd4dbb7c0794c3ef734, type: 3}
+  - {fileID: 12800000, guid: e14bbb7ab224eb347a8e404c4ae0c406, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - leftWall
+  - rightWall
+  - blockBase
+  - block
+  - bottomWall
+  - topWall
+  - ball
+  - f1
+  - f1done
+  - UI
+  - horizontalSwipe
+  - verticalSwipe
+  - f2
+  - f2done
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ball
+  - Water
+  - UI
+  - leftWall
+  - rightWall
+  - topWall
+  - bottomWall
+  - block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
